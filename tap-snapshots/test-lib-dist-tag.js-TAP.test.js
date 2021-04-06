@@ -15,6 +15,9 @@ npm dist-tag add <pkg>@<version> [<tag>]
 npm dist-tag rm <pkg> <tag>
 npm dist-tag ls [<pkg>]
 
+Options:
+[-w|--workspace <workspace-name> [-w|--workspace <workspace-name> ...]] [-ws|--workspaces]
+
 alias: dist-tags
 
 Run "npm help dist-tag" for more info
@@ -29,6 +32,9 @@ Usage:
 npm dist-tag add <pkg>@<version> [<tag>]
 npm dist-tag rm <pkg> <tag>
 npm dist-tag ls [<pkg>]
+
+Options:
+[-w|--workspace <workspace-name> [-w|--workspace <workspace-name> ...]] [-ws|--workspaces]
 
 alias: dist-tags
 
@@ -54,6 +60,9 @@ npm dist-tag add <pkg>@<version> [<tag>]
 npm dist-tag rm <pkg> <tag>
 npm dist-tag ls [<pkg>]
 
+Options:
+[-w|--workspace <workspace-name> [-w|--workspace <workspace-name> ...]] [-ws|--workspaces]
+
 alias: dist-tags
 
 Run "npm help dist-tag" for more info
@@ -74,6 +83,9 @@ Usage:
 npm dist-tag add <pkg>@<version> [<tag>]
 npm dist-tag rm <pkg> <tag>
 npm dist-tag ls [<pkg>]
+
+Options:
+[-w|--workspace <workspace-name> [-w|--workspace <workspace-name> ...]] [-ws|--workspaces]
 
 alias: dist-tags
 
@@ -125,6 +137,9 @@ Usage:
 npm dist-tag add <pkg>@<version> [<tag>]
 npm dist-tag rm <pkg> <tag>
 npm dist-tag ls [<pkg>]
+
+Options:
+[-w|--workspace <workspace-name> [-w|--workspace <workspace-name> ...]] [-ws|--workspaces]
 
 alias: dist-tags
 
